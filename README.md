@@ -1,4 +1,4 @@
-<img width="1916" height="831" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/d21ccec4-f1ae-4938-821e-57618e1d3959" /># AWS re/Start Programme 2026 – Intellergy.
+# AWS re/Start Programme 2026 – Intellergy.
 
 # Programme Overview
 
@@ -30,7 +30,8 @@ In this lab, I worked on managing users and groups in Linux by creating accounts
 
 
 
-Billing, Pricing, and Support Models
+# Billing, Pricing, and Support Models
+<img width="750" height="301" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/d21ccec4-f1ae-4938-821e-57618e1d3959" />
 
 AWS Architecture and Deployment
 
