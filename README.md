@@ -1,6 +1,6 @@
 # AWS re/Start Programme 2026 – Intellergy.
 
-📘 Programme Overview
+# Programme Overview
 
 Duration: 12 Weeks (Full-Time)
 Facilitator: Daniel Clement.
@@ -8,7 +8,7 @@ Company: Intellergy
 Start Date: 6 February 2026
 Goal: Attain the AWS Certified Cloud Practitioner Certification.
 
-🧠 Key Learning Areas
+# Key Learning Areas
 
 AWS Cloud Fundamentals
 
@@ -22,11 +22,11 @@ AWS Architecture and Deployment
 
 Hands-on Labs and Cloud Projects
 
-🎯 Objective
+# Objective
 
 To gain in-depth knowledge of AWS Cloud concepts, services, and best practices while developing cloud-ready technical and professional skills.
 
-📁 Repository Contents
+# Repository Contents
 
 Weekly study notes
 
