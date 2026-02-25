@@ -14,8 +14,8 @@ AWS Cloud Fundamentals
 
 Compute, Storage, and Networking in AWS
 
-Security and Identity Management
-*Managing Users and Groups*
+#Security and Identity Management
+#*Managing Users and Groups*
 In this lab, I worked on managing users and groups in Linux by creating accounts, assigning group memberships, and setting permissions. This helped me understand how access control is implemented in a multi-user environment.
 <img width="1493" height="632" alt="image" src="https://github.com/user-attachments/assets/3bc935c0-bebf-48e2-95ab-4318f0ec4573" />
 
