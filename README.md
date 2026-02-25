@@ -1,4 +1,4 @@
-# AWS re/Start Programme 2026 – Intellergy.
+<img width="1916" height="831" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/d21ccec4-f1ae-4938-821e-57618e1d3959" /># AWS re/Start Programme 2026 – Intellergy.
 
 # Programme Overview
 
@@ -10,12 +10,21 @@ Goal: Attain the AWS Certified Cloud Practitioner Certification.
 
 # Key Learning Areas
 
-AWS Cloud Fundamentals
+# Introduction to Amazon EC2
+In this session, I explored Amazon EC2, AWS’s service for creating and managing virtual servers in the cloud. I launched instances, connected to them using SSH, and learned how EC2 allows scalable, secure, and flexible compute resources for different workloads.
+<img width="987" height="432" alt="Introduction to Amazon EC2" src="https://github.com/user-attachments/assets/0486cd00-ff62-47b3-bcc7-f5d91f0d2fa1" /> | <img width="1883" height="817" alt="Introduction to Amazon EC2_2" src="https://github.com/user-attachments/assets/a1a9dd38-89c0-4e92-b63f-82c4aecdb86c" />
 
-Compute, Storage, and Networking in AWS
 
-#Security and Identity Management
-#*Managing Users and Groups*
+# Introduction to Amazon Linux
+In this lab, I explored Amazon Linux, the AWS-optimized Linux distribution. I learned how to launch instances with Amazon Linux, navigate the command line, manage packages, and understand why it is designed for secure, high-performance cloud environments.
+<img width="907" height="475" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)" src="https://github.com/user-attachments/assets/b151ef10-4827-417c-9bd9-2ab45664cd44" /> |  <img width="916" height="431" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/290c497a-82ba-4496-97c1-7c0475366c30" />
+
+<img width="918" height="471" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd" />
+
+
+
+# Security and Identity Management
+# *Managing Users and Groups*
 In this lab, I worked on managing users and groups in Linux by creating accounts, assigning group memberships, and setting permissions. This helped me understand how access control is implemented in a multi-user environment.
 <img width="1493" height="632" alt="image" src="https://github.com/user-attachments/assets/3bc935c0-bebf-48e2-95ab-4318f0ec4573" />
 
