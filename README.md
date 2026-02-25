@@ -1,3 +1,5 @@
+# AWS re/Start Programme 2026 – Intellergy.
+
 This repository documents my 12-week journey in the AWS re/Start Programme (2026) facilitated by Intellergy and instructed by Daniel Clement.
 
 The programme started on 6 February 2026 and provides comprehensive AWS Cloud Computing training to prepare learners for the AWS Certified Cloud Practitioner certification.
