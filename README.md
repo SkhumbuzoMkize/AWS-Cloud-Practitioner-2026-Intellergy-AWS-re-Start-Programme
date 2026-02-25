@@ -1,16 +1,14 @@
-This repository documents my 12-week journey in the AWS re/Start Programme (2025) facilitated by Praesignis and instructed by Shaun Wana.
+This repository documents my 12-week journey in the AWS re/Start Programme (2026) facilitated by Intellergy and instructed by Daniel Clement.
 
-The programme runs from 6 October 2025 to 22 December 2025, providing comprehensive AWS Cloud Computing training to prepare learners for the AWS Certified Cloud Practitioner certification.
+The programme started on 6 February 2026 and provides comprehensive AWS Cloud Computing training to prepare learners for the AWS Certified Cloud Practitioner certification.
 
 📘 Programme Overview
 
 Duration: 12 Weeks (Full-Time)
-
-Facilitator: Shaun Wana (Praesignis)
-
-Platform: Praesignis LMS – https://edusignis.praesignis.com
-
-Goal: Attain the AWS Certified Cloud Practitioner Certification
+Facilitator: Daniel Clement.
+Company: Intellergy
+Start Date: 6 February 2026
+Goal: Attain the AWS Certified Cloud Practitioner Certification.
 
 🧠 Key Learning Areas
 
