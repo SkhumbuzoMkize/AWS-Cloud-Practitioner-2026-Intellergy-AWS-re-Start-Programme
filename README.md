@@ -44,7 +44,7 @@ In this lab, I explored Amazon Linux, the Linux distribution designed for use in
 
 
 # Security and Identity Management
-# *Managing Users and Groups*
+*Managing Users and Groups*
 <br>
 In this lab, I practiced security and identity management by managing users and groups in a Linux environment. I created user accounts, assigned them to specific groups, and configured file permissions to control access to system resources. This exercise helped me understand how access control works in multi-user systems and why proper user management is important for maintaining system security and organization. It also demonstrated how administrators can restrict or grant permissions based on user roles.
 <br>
