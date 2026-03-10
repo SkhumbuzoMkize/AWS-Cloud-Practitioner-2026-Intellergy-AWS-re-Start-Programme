@@ -38,6 +38,16 @@ In this lab, I explored Amazon Linux, the Linux distribution designed for use in
 <img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd" />
 </p>
 
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)" src="https://github.com/user-attachments/assets/b151ef10-4827-417c-9bd9-2ab45664cd44" style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/290c497a-82ba-4496-97c1-7c0475366c30" style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+</table
+<img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd"  style="margin-right: 10px;" width="300"/>
+
+
 
 
 # Security and Identity Management
