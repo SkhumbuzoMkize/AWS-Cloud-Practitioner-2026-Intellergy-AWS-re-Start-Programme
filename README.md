@@ -46,7 +46,18 @@ In this lab, I worked on managing users and groups in Linux by creating accounts
 <br>
 AWS Architecture and Deployment
 
-Hands-on Labs and Cloud Projects
+
+# Data Protection Using Encryption
+<br>
+<br>
+<img width="600" height="300" alt="Doing Data Protection using Key Management Service" src="https://github.com/user-attachments/assets/f04da87e-23a3-40e4-8dfc-2c5fa4c9c495" />
+
+<br>
+I have successfully created a symmetric AWS KMS key and gave ownership of that key to the voclabs IAM role.
+<br>
+<img width="600" height="300" alt="Successfuly done Data Protection using Key Management Service" src="https://github.com/user-attachments/assets/ca86e747-75c8-4c50-975f-ec33b6833315" />
+
+
 
 # Objective
 
