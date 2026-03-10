@@ -16,8 +16,8 @@ In this session, I explored Amazon EC2, AWS’s service for creating and managin
 <br>
 <table>
   <tr>
-    <td><img width="600" height="300" alt="Introduction to Amazon EC2" src="https://github.com/user-attachments/assets/0486cd00-ff62-47b3-bcc7-f5d91f0d2fa1" width="200"/></td>
-    <td><img width="600" height="300" alt="Introduction to Amazon EC2_2" src="https://github.com/user-attachments/assets/a1a9dd38-89c0-4e92-b63f-82c4aecdb86c" width="200"/></td>
+    <td><img width="600" height="300" alt="Introduction to Amazon EC2" src="https://github.com/user-attachments/assets/0486cd00-ff62-47b3-bcc7-f5d91f0d2fa1" style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Introduction to Amazon EC2_2" src="https://github.com/user-attachments/assets/a1a9dd38-89c0-4e92-b63f-82c4aecdb86c" style="margin-right: 10px;" width="300"/></td>
     
   </tr>
 </table
