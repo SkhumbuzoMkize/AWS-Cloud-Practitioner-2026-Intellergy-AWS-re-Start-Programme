@@ -73,6 +73,9 @@ In this task, I configured the File Server EC2 instance to securely encrypt and 
     
   </tr>
 </table
+<br>
+<img width="600" height="300" alt="Key Management Service Ternimal" src="https://github.com/user-attachments/assets/a5dd5ac6-fb3b-4b8c-b404-e019b21f618c"  style="margin-right: 10px;" width="300"/>
+
 
 
 
