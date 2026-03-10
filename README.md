@@ -73,6 +73,7 @@ In this lab, I worked with AWS Lambda and Amazon Inspector to assess the securit
  style="margin-right: 10px;" width="300"/></td>
     <td><img width="600" height="300" alt="Lambda" src="https://github.com/user-attachments/assets/1493780d-0464-46d6-8fa7-a85f4e653992"
  style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Lambda2" src="https://github.com/user-attachments/assets/c6ca16b0-9a9b-4ce6-a363-bba60ab64621" style="margin-right: 10px;" width="300"/></td>
     
   </tr>
 </table
