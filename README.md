@@ -36,6 +36,7 @@ In this lab, I explored Amazon Linux, the Linux distribution designed for use in
 </p>
 <br>
 <img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd" />
+</p>
 
 
 
