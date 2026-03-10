@@ -53,12 +53,41 @@ In this lab, I practiced security and identity management by managing users and 
 
 
 # Billing, Pricing, and Support Models
+AWS Architecture and Deployment
 <br>
 While learning cloud services on Amazon Web Services, I explored how its billing and pricing models work. AWS uses a pay-as-you-go approach, which means you only pay for the resources you actually use instead of paying upfront for infrastructure. I also learned about different pricing options such as on-demand and reserved instances, which help organizations manage and reduce costs. In addition, AWS provides various support plans that assist users with troubleshooting, technical guidance, and best practices. Understanding these models helped me see how businesses can scale their systems efficiently while controlling cloud expenses.
 <br>
+
 <img width="650" height="301" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/d21ccec4-f1ae-4938-821e-57618e1d3959" />
 <br>
-AWS Architecture and Deployment
+
+
+# AWS Inspector and Lambda Function Security
+<br>
+In this lab, I worked with AWS Lambda and Amazon Inspector to assess the security of a Lambda function I deployed. I launched a Python Lambda function (get-request) and used Inspector to perform a vulnerability scan. The findings summary showed 0 Critical, 0 High, and 3 Medium issues, which helped me identify areas for improvement in my function’s security. This exercise gave me hands-on experience in securing serverless applications, understanding how automated security assessments work, and interpreting vulnerability reports to strengthen cloud workloads.
+<br>
+
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Network-Hardening" src="https://github.com/user-attachments/assets/36b16679-22ab-480e-94ed-30831c87411e"
+ style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Lambda" src="https://github.com/user-attachments/assets/1493780d-0464-46d6-8fa7-a85f4e653992"
+ style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+</table
+
+
+<table>
+  <tr>
+    <td><img width="1905" height="752" alt="Lambda2" src="https://github.com/user-attachments/assets/c6ca16b0-9a9b-4ce6-a363-bba60ab64621" style="margin-right: 10px;" width="300"/></td>
+    <td><img width="1918" height="743" alt="Scanned Lambda function has an updated timestamp" src="https://github.com/user-attachments/assets/c90d6b30-7a43-4fc3-b0da-365d63aca506" style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+</table
+
+
+
 
 
 # Data Protection Using Encryption
