@@ -23,15 +23,17 @@ In this session, I explored Amazon EC2, AWS’s service for creating and managin
 </table
 
 
+<br>
+
 # Introduction to Amazon Linux
 <br>
 In this lab, I explored Amazon Linux, the Linux distribution designed for use in Amazon Web Services cloud environments. I learned how to launch instances running Amazon Linux, navigate the command line, and manage software packages. This experience helped me understand how the operating system is optimized for security, stability, and performance in the cloud. It also gave me practical insight into working with Linux-based systems commonly used in cloud infrastructure.
 <br>
-<img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)" src="https://github.com/user-attachments/assets/b151ef10-4827-417c-9bd9-2ab45664cd44" /> | 
-<br>
-<br>
-<img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/290c497a-82ba-4496-97c1-7c0475366c30" />
-<br>
+
+<p float="left">
+  <img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)" src="https://github.com/user-attachments/assets/b151ef10-4827-417c-9bd9-2ab45664cd44" style="margin-right: 10px;" width="300"/>
+  <img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/290c497a-82ba-4496-97c1-7c0475366c30" style="margin-right: 10px;" width="300"/>
+</p>
 <br>
 <img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd" />
 
