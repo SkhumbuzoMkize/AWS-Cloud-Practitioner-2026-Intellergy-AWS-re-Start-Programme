@@ -1,4 +1,4 @@
-<img width="1911" height="837" alt="Identity and Access Management(IAM)2" src="https://github.com/user-attachments/assets/58cdcdf1-335f-40c8-baa1-c373d264c7d2" /># AWS re/Start Programme 2026 – Intellergy.
+# AWS re/Start Programme 2026 – Intellergy.
 
 # Programme Overview.
 
@@ -107,6 +107,8 @@ In this task, I configured the File Server EC2 instance to securely encrypt and 
 
 <br>
 In this lab, I explored AWS Identity and Access Management (IAM) by creating a custom password policy, inspecting pre-created users and groups, and understanding how permissions are applied through IAM policies. I strengthened account security by enforcing a minimum 10-character password, enabling password expiration, and preventing password reuse.
+
+I then assigned users to specific groups based on their job roles—S3 support, EC2 support, and EC2 administration—and tested their access. The lab demonstrated how IAM manages permissions effectively, ensuring users can only access the AWS resources necessary for their roles, following the principle of least privilege.
 
 
 <table>
