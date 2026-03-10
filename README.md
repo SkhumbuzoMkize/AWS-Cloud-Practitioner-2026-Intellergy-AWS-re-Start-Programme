@@ -14,10 +14,13 @@ Goal: Attain the AWS Certified Cloud Practitioner Certification.
 <br>
 In this session, I explored Amazon EC2, AWS’s service for creating and managing virtual servers in the cloud. I launched instances, connected to them via SSH, and learned how EC2 provides scalable, secure, and flexible compute resources suitable for a variety of workloads. This hands-on experience helped me understand how cloud infrastructure can be quickly deployed and managed to meet dynamic computing needs.
 <br>
-<img width="600" height="300" alt="Introduction to Amazon EC2" src="https://github.com/user-attachments/assets/0486cd00-ff62-47b3-bcc7-f5d91f0d2fa1" /> | 
-<br> 
-<br>
-<img width="600" height="300" alt="Introduction to Amazon EC2_2" src="https://github.com/user-attachments/assets/a1a9dd38-89c0-4e92-b63f-82c4aecdb86c" />
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Introduction to Amazon EC2" src="https://github.com/user-attachments/assets/0486cd00-ff62-47b3-bcc7-f5d91f0d2fa1" width="200"/></td>
+    <td><img width="600" height="300" alt="Introduction to Amazon EC2_2" src="https://github.com/user-attachments/assets/a1a9dd38-89c0-4e92-b63f-82c4aecdb86c" width="200"/></td>
+    
+  </tr>
+</table
 
 
 # Introduction to Amazon Linux
