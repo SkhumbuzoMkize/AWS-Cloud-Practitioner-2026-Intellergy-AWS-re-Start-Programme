@@ -1,4 +1,4 @@
-# AWS re/Start Programme 2026 – Intellergy.
+<img width="1911" height="837" alt="Identity and Access Management(IAM)2" src="https://github.com/user-attachments/assets/58cdcdf1-335f-40c8-baa1-c373d264c7d2" /># AWS re/Start Programme 2026 – Intellergy.
 
 # Programme Overview.
 
@@ -100,6 +100,42 @@ In this task, I configured the File Server EC2 instance to securely encrypt and 
 </table
 <br>
 <img width="600" height="300" alt="Key Management Service Ternimal" src="https://github.com/user-attachments/assets/a5dd5ac6-fb3b-4b8c-b404-e019b21f618c"  style="margin-right: 10px;" width="300"/>
+
+
+
+# AWS Identity and Access Management
+
+<br>
+In this lab, I explored AWS Identity and Access Management (IAM) by creating a custom password policy, inspecting pre-created users and groups, and understanding how permissions are applied through IAM policies. I strengthened account security by enforcing a minimum 10-character password, enabling password expiration, and preventing password reuse.
+
+
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Identity and Access Management(IAM)" src="https://github.com/user-attachments/assets/198a1a77-7b45-49d4-a707-e63580bbbc35"  style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Identity and Access Management(IAM)2" src="https://github.com/user-attachments/assets/642bc8c8-d650-4f03-8e34-0df8d8200228" style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+  <br>
+  <br>
+  <tr>
+    <td><img width="600" height="300" alt="Added Users_Identity and Access Management(IAM)" src="https://github.com/user-attachments/assets/ad06c55a-2fc4-4031-b76a-a115338715d5" style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Signing in User 1_Identity and Access Management(IAM)" src="https://github.com/user-attachments/assets/28fe6755-b9f3-4301-951e-c21d1238379e" style="margin-right: 10px;" width="300"/></td>
+  
+  </tr>
+ 
+  <br>
+  <tr>
+    <td><img width="600" height="300" alt="User-1 Signed in" src="https://github.com/user-attachments/assets/1d29228e-b589-4aa1-b72b-da8572f28470" style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="User-2 Signed in" src="https://github.com/user-attachments/assets/8678ded6-62d4-4594-bc8c-2b06df5874a9" style="margin-right: 10px;" width="300"/></td>
+  
+  </tr>
+  
+  <tr>
+    <td><img width="600" height="300" alt="User-3 Signed in" src="https://github.com/user-attachments/assets/ff0eaf8b-0fb1-42f1-9448-30423093bc01" style="margin-right: 10px;" width="300"/></td>
+  
+  </tr>
+  
+</table
 
 
 
