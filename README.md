@@ -30,14 +30,6 @@ In this session, I explored Amazon EC2, AWS’s service for creating and managin
 In this lab, I explored Amazon Linux, the Linux distribution designed for use in Amazon Web Services cloud environments. I learned how to launch instances running Amazon Linux, navigate the command line, and manage software packages. This experience helped me understand how the operating system is optimized for security, stability, and performance in the cloud. It also gave me practical insight into working with Linux-based systems commonly used in cloud infrastructure.
 <br>
 
-<p float="left">
-  <img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)" src="https://github.com/user-attachments/assets/b151ef10-4827-417c-9bd9-2ab45664cd44" style="margin-right: 10px;" width="300"/>
-  <img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/290c497a-82ba-4496-97c1-7c0475366c30" style="margin-right: 10px;" width="300"/>
-</p>
-<br>
-<img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd" />
-</p>
-
 <table>
   <tr>
     <td><img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)" src="https://github.com/user-attachments/assets/b151ef10-4827-417c-9bd9-2ab45664cd44" style="margin-right: 10px;" width="300"/></td>
@@ -45,6 +37,7 @@ In this lab, I explored Amazon Linux, the Linux distribution designed for use in
     
   </tr>
 </table
+  <br>
 <img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd"  style="margin-right: 10px;" width="300"/>
 
 
@@ -72,12 +65,14 @@ AWS Architecture and Deployment
 <br>
 In this task, I configured the File Server EC2 instance to securely encrypt and decrypt data using Amazon EC2 and AWS Key Management Service. I connected to the instance through Session Manager and configured AWS credentials using temporary credentials provided in Vocareum. After updating the ~/.aws/credentials file with the correct access keys and session token, I installed the AWS Encryption CLI to enable encryption commands. Using this setup, I created a sample file containing mock sensitive data and encrypted it with an AWS KMS key by referencing its ARN. The encrypted output was stored in a separate directory, demonstrating how plaintext data can be transformed into secure ciphertext that cannot be read without proper decryption. This process highlights how AWS services can be used to protect sensitive data through secure key management and encryption practices.
 <br>
-<img width="600" height="300" alt="Doing Data Protection using Key Management Service" src="https://github.com/user-attachments/assets/f04da87e-23a3-40e4-8dfc-2c5fa4c9c495" />
 
-<br>
-I have successfully created a symmetric AWS KMS key and gave ownership of that key to the voclabs IAM role.
-<br>
-<img width="600" height="300" alt="Successfuly done Data Protection using Key Management Service" src="https://github.com/user-attachments/assets/ca86e747-75c8-4c50-975f-ec33b6833315" />
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Doing Data Protection using Key Management Service" src="https://github.com/user-attachments/assets/f04da87e-23a3-40e4-8dfc-2c5fa4c9c495" style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Successfuly done Data Protection using Key Management Service" src="https://github.com/user-attachments/assets/ca86e747-75c8-4c50-975f-ec33b6833315" style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+</table
 
 
 
