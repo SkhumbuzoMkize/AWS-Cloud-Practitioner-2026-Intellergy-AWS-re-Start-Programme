@@ -11,36 +11,41 @@ Goal: Attain the AWS Certified Cloud Practitioner Certification.
 # Key Learning Areas
 
 # Introduction to Amazon EC2
-In this session, I explored Amazon EC2, AWS’s service for creating and managing virtual servers in the cloud. I launched instances, connected to them using SSH, and learned how EC2 allows scalable, secure, and flexible compute resources for different workloads.
 <br>
-<img width="607" height="302" alt="Introduction to Amazon EC2" src="https://github.com/user-attachments/assets/0486cd00-ff62-47b3-bcc7-f5d91f0d2fa1" /> | 
+In this session, I explored Amazon EC2, AWS’s service for creating and managing virtual servers in the cloud. I launched instances, connected to them via SSH, and learned how EC2 provides scalable, secure, and flexible compute resources suitable for a variety of workloads. This hands-on experience helped me understand how cloud infrastructure can be quickly deployed and managed to meet dynamic computing needs.
+<br>
+<img width="600" height="300" alt="Introduction to Amazon EC2" src="https://github.com/user-attachments/assets/0486cd00-ff62-47b3-bcc7-f5d91f0d2fa1" /> | 
 <br> 
 <br>
-<img width="603" height="307" alt="Introduction to Amazon EC2_2" src="https://github.com/user-attachments/assets/a1a9dd38-89c0-4e92-b63f-82c4aecdb86c" />
+<img width="600" height="300" alt="Introduction to Amazon EC2_2" src="https://github.com/user-attachments/assets/a1a9dd38-89c0-4e92-b63f-82c4aecdb86c" />
 
 
 # Introduction to Amazon Linux
-In this lab, I explored Amazon Linux, the AWS-optimized Linux distribution. I learned how to launch instances with Amazon Linux, navigate the command line, manage packages, and understand why it is designed for secure, high-performance cloud environments.
 <br>
-<img width="587" height="305" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)" src="https://github.com/user-attachments/assets/b151ef10-4827-417c-9bd9-2ab45664cd44" /> | 
+In this lab, I explored Amazon Linux, the Linux distribution designed for use in Amazon Web Services cloud environments. I learned how to launch instances running Amazon Linux, navigate the command line, and manage software packages. This experience helped me understand how the operating system is optimized for security, stability, and performance in the cloud. It also gave me practical insight into working with Linux-based systems commonly used in cloud infrastructure.
 <br>
-<br>
-<img width="916" height="431" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/290c497a-82ba-4496-97c1-7c0475366c30" />
+<img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)" src="https://github.com/user-attachments/assets/b151ef10-4827-417c-9bd9-2ab45664cd44" /> | 
 <br>
 <br>
-<img width="608" height="309" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd" />
+<img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/290c497a-82ba-4496-97c1-7c0475366c30" />
+<br>
+<br>
+<img width="600" height="300" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)2" src="https://github.com/user-attachments/assets/c8172cef-cbf0-4ff9-b740-febb26c3f4cd" />
 
 
 
 # Security and Identity Management
 # *Managing Users and Groups*
-In this lab, I worked on managing users and groups in Linux by creating accounts, assigning group memberships, and setting permissions. This helped me understand how access control is implemented in a multi-user environment.
+<br>
+In this lab, I practiced security and identity management by managing users and groups in a Linux environment. I created user accounts, assigned them to specific groups, and configured file permissions to control access to system resources. This exercise helped me understand how access control works in multi-user systems and why proper user management is important for maintaining system security and organization. It also demonstrated how administrators can restrict or grant permissions based on user roles.
 <br>
 <img width="603" height="300" alt="image" src="https://github.com/user-attachments/assets/3bc935c0-bebf-48e2-95ab-4318f0ec4573" />
 
 
 
 # Billing, Pricing, and Support Models
+<br>
+While learning cloud services on Amazon Web Services, I explored how its billing and pricing models work. AWS uses a pay-as-you-go approach, which means you only pay for the resources you actually use instead of paying upfront for infrastructure. I also learned about different pricing options such as on-demand and reserved instances, which help organizations manage and reduce costs. In addition, AWS provides various support plans that assist users with troubleshooting, technical guidance, and best practices. Understanding these models helped me see how businesses can scale their systems efficiently while controlling cloud expenses.
 <br>
 <img width="650" height="301" alt="Introduction to an Amazon Linux Amazon Machine Image (AMI)_3" src="https://github.com/user-attachments/assets/d21ccec4-f1ae-4938-821e-57618e1d3959" />
 <br>
@@ -49,6 +54,7 @@ AWS Architecture and Deployment
 
 # Data Protection Using Encryption
 <br>
+In this task, I configured the File Server EC2 instance to securely encrypt and decrypt data using Amazon EC2 and AWS Key Management Service. I connected to the instance through Session Manager and configured AWS credentials using temporary credentials provided in Vocareum. After updating the ~/.aws/credentials file with the correct access keys and session token, I installed the AWS Encryption CLI to enable encryption commands. Using this setup, I created a sample file containing mock sensitive data and encrypted it with an AWS KMS key by referencing its ARN. The encrypted output was stored in a separate directory, demonstrating how plaintext data can be transformed into secure ciphertext that cannot be read without proper decryption. This process highlights how AWS services can be used to protect sensitive data through secure key management and encryption practices.
 <br>
 <img width="600" height="300" alt="Doing Data Protection using Key Management Service" src="https://github.com/user-attachments/assets/f04da87e-23a3-40e4-8dfc-2c5fa4c9c495" />
 
