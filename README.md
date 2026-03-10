@@ -87,7 +87,7 @@ In this lab, I worked with AWS Lambda and Amazon Inspector to assess the securit
 
 
 
-# Data Protection Using Encryption
+#  Data Protection Using Encryption
 <br>
 In this task, I configured the File Server EC2 instance to securely encrypt and decrypt data using Amazon EC2 and AWS Key Management Service. I connected to the instance through Session Manager and configured AWS credentials using temporary credentials provided in Vocareum. After updating the ~/.aws/credentials file with the correct access keys and session token, I installed the AWS Encryption CLI to enable encryption commands. Using this setup, I created a sample file containing mock sensitive data and encrypted it with an AWS KMS key by referencing its ARN. The encrypted output was stored in a separate directory, demonstrating how plaintext data can be transformed into secure ciphertext that cannot be read without proper decryption. This process highlights how AWS services can be used to protect sensitive data through secure key management and encryption practices.
 <br>
