@@ -138,7 +138,45 @@ I then assigned users to specific groups based on their job roles—S3 support, 
   </tr>
   
 </table
+<br>
 
+
+# Monitor an EC2 Instance
+<br>
+In this lab, I worked with Amazon CloudWatch to monitor the performance of an Amazon Elastic Compute Cloud (EC2) instance. I created a CloudWatch alarm that triggers when CPU utilization exceeds a defined threshold. I also configured Amazon Simple Notification Service (SNS) to send an email notification whenever the alarm is activated.
+
+To test the monitoring setup, I performed a stress test on the EC2 instance to simulate high CPU usage. This allowed me to verify that the alarm was triggered and that the SNS notification was successfully delivered. The lab demonstrated how AWS monitoring tools can help detect unusual activity and maintain system performance and security.
+
+<br>
+
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Monitor an EC2 Instance" src="https://github.com/user-attachments/assets/702804de-03a2-4531-aa7e-c50486f92651"  style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Simple Notification Service_ Mnitoring EC2 Instance" src="https://github.com/user-attachments/assets/6aa978e1-7e50-423d-8434-758f30e81b75"   style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+
+  <tr>
+    <td><img width="600" height="300" alt="Created Simple Notification Service_ Mnitoring EC2 Instance" src="https://github.com/user-attachments/assets/2ffc7daf-350b-43db-af1e-8530a288c31d"  style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="2_Created Simple Notification Service_ Mnitoring EC2 Instance" src="https://github.com/user-attachments/assets/fe05a9c5-d687-4a31-9990-791fb4ce94d8"  style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+
+</table
+
+
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Successfully subscribed_Simple Notification Service_ Mnitoring EC2 Instance" src="https://github.com/user-attachments/assets/bc75d8b8-564d-4b41-a7ec-e02a8f265a39"  style="margin-right: 10px;" width="300"/></td>
+    <td><img width="600" height="300" alt="Created Simple Notification Service_ Mnitoring EC2 Instance1" src="https://github.com/user-attachments/assets/47c4b491-29e8-422b-8253-e73029b1129d"   style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+
+  <tr>
+    <td><img width="600" height="300" alt="Manually increase the CPU load of the EC2 instance" src="https://github.com/user-attachments/assets/937fd412-b45e-4d6d-a353-bf0743b8b2bb"   style="margin-right: 10px;" width="300"/></td>
+    
+  </tr>
+</table>
 
 
 
