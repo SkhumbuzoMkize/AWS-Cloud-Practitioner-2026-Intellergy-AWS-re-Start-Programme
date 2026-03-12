@@ -169,10 +169,6 @@ To test the monitoring setup, I performed a stress test on the EC2 instance to s
   <tr>
     <td><img width="600" height="300" alt="Successfully subscribed_Simple Notification Service_ Mnitoring EC2 Instance" src="https://github.com/user-attachments/assets/bc75d8b8-564d-4b41-a7ec-e02a8f265a39"  style="margin-right: 10px;" width="300"/></td>
     <td><img width="600" height="300" alt="Created Simple Notification Service_ Mnitoring EC2 Instance1" src="https://github.com/user-attachments/assets/47c4b491-29e8-422b-8253-e73029b1129d"   style="margin-right: 10px;" width="300"/></td>
-    
-  </tr>
-
-  <tr>
     <td><img width="600" height="300" alt="Manually increase the CPU load of the EC2 instance" src="https://github.com/user-attachments/assets/937fd412-b45e-4d6d-a353-bf0743b8b2bb"   style="margin-right: 10px;" width="300"/></td>
     
   </tr>
