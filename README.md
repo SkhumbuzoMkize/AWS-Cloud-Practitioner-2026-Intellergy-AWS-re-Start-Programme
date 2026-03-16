@@ -175,6 +175,23 @@ To test the monitoring setup, I performed a stress test on the EC2 instance to s
 
 
 
+# Python
+
+In this lab, I used the AWS Cloud9 IDE to create and run my first program using the Python programming language. I created a new Python file, saved it in the working directory, and explored the terminal to check the installed Python versions using basic commands. This helped me understand how the development environment and Python interpreter work.
+
+I then wrote a simple “Hello, World” program using the print() function and executed it in the IDE. The program successfully displayed the output, confirming that the Python environment was set up correctly. This lab introduced the basic workflow of writing, saving, and running Python code in a cloud-based development environment.
+
+
+
+<table>
+  <tr>
+    <td><img width="600" height="300" alt="Python" src="https://github.com/user-attachments/assets/4ecce53f-cdb3-44e6-9c70-876b35f52527"  style="margin-right: 10px;" width="300" /></td>
+    <td><img width="600" height="300" alt="Python2" src="https://github.com/user-attachments/assets/dcbbd4dc-0172-4674-afd4-92522a592f4a"
+  style="margin-right: 10px;" width="300" /></td>
+  </tr>
+</table>
+
+
 # Objective.
 
 To gain in-depth knowledge of AWS Cloud concepts, services, and best practices while developing cloud-ready technical and professional skills.
