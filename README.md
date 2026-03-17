@@ -175,7 +175,7 @@ To test the monitoring setup, I performed a stress test on the EC2 instance to s
 
 
 
-#  Python
+ # Python
 
 In this lab, I used the AWS Cloud9 IDE to create and run my first program using the Python programming language. I created a new Python file, saved it in the working directory, and explored the terminal to check the installed Python versions using basic commands. This helped me understand how the development environment and Python interpreter work.
 
