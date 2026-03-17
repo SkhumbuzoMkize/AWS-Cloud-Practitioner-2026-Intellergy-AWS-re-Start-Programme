@@ -174,6 +174,7 @@ To test the monitoring setup, I performed a stress test on the EC2 instance to s
 
 
 
+<br>
 
  # Python
 
@@ -191,6 +192,7 @@ I then wrote a simple “Hello, World” program using the print() function and 
   </tr>
 </table>
 
+<br>
 
 # Objective.
 
